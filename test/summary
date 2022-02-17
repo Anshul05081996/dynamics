@@ -1,0 +1,17 @@
+SAMPLE : 1
+
+Fission : 5 = 6 7 
+
+Chain Insertion : 48	0 -> 1
+                  
+
+
+=============================================
+
+Total samples analyzed: 2
+Chain insertion events per step : 1
+Chain expulsion events per step : 0
+Stepwise association events per step : 0
+Stepwise dissociation events per step : 0
+Fission events per step : 1
+Fusion events per step : 0

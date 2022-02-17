@@ -1,0 +1,19 @@
+Input Prefix: in/cluster.clusters
+Output Prefix: out_BD/cluster.clusters
+Start: 14990
+Increment: 1
+Final: 14997
+Cutoff unimers: 15
+Cutoff for preserved micelle: 0.8
+Cutoff for fission/fusion: 0.2
+======================================
+************iFile : 14992*************
+************iFile : 14993*************
+************iFile : 14994*************
+************iFile : 14995*************
+************iFile : 14996*************
+************iFile : 14997*************
+======================================
+Total samples analyzed: 8
+
+Thank you.....Have a nice day....:D

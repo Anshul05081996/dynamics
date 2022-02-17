@@ -1,0 +1,9 @@
+Input Prefix: in/cluster
+Output Prefix: out_BD/cluster
+Start: 14990
+Increment: 1
+Final: 14997
+Cutoff unimers: 15
+Cutoff for preserved micelle: 0.80
+Cutoff for fission/fusion: 0.20
+Number of histories: 2
